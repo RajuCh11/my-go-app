@@ -4,4 +4,4 @@ image:
   repository: rajuchalla112/goapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v2"
+  tag: "30878801916"
